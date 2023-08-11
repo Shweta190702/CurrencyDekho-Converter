@@ -1,2 +1,3 @@
-
-##### This Currency Converter web app is built using React.js and Chakra UI. It provides a simple and intuitive way to convert any currency in the world. With an easy-to-use interface, all you have to do is enter the amount you'd like to convert and select the currency you're converting from and to. The app will then show you the exchange rate and the amount you'll receive in the other currency. This app also includes a currency calculator so you can quickly calculate the amount you need to convert. With a fast loading time and a sleek design, this web app is perfect for anyone looking to quickly and accurately convert currencies.
+#
+Our React.js and Chakra UI web app simplifies currency conversion. Enter the amount, select currencies, and instantly view the exchange rate and amount in the other currency. We also offer a currency calculator for speedy calculations.
+#
